@@ -15,7 +15,7 @@ This project proposes a “Website for binding and keeping record of our travel 
 <img width="1678" src="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%202.png">
 
 
-## features
+## Features
 
 ```
 - Yatrum uses @ngrx libraries, showcasing common patterns and best practices.
