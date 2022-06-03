@@ -9,7 +9,7 @@ Over several available website and platform for different tools, there is not an
 ## Proposed Solution :
 
 This project proposes a “Website for binding and keeping record of our travel stories, travel guides etc". Currently the app is dedicated to only keeping track and records and seggestions etc.
-<img width="1678" alt="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%201.png">
+<img width="1678" alt="[https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%201.png](https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%201.png)">
 <br>
 <br>
 <img width="1678" alt="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%202.png">
@@ -55,7 +55,7 @@ closed issues. If your problem or idea is not addressed yet,
 
 ## Application Link & Future Scope :
 
-The app is currently in the Alpha testing phase for users, You can access the app : [[website link](https://yatrum.firebaseapp.com/)].
+The app is currently in the Alpha testing phase for users, You can access the app : [(https://yatrum.firebaseapp.com/)].
 
 Once the website is fully tested and functional we will add several different more sections for other fields incresing our reach and growing its community.
 
