@@ -1,60 +1,51 @@
-# Toon-book
+# Yatram
 
-Community for a perticular field. Like (instagram)
+Share and Discover Travel Stories, Itineraries, Travel Guides etc
 
 ## Problem Statement:
 
-Over several available website and platform for media sharing, there is not any pertiular platform dedicated to anime and superhero fans.
+Over several available website and platform for different tools, there is not any pertiular platform dedicated to travling, to keep recoreds, photos, etc.
 
 ## Proposed Solution :
 
-This project proposes a “Website for binding and bringing all the toon superhero fans where they can share there art and express their thoughts seemlessly". Currently the app is dedicated to only anime and marvel and dc superhero fans.
+This project proposes a “Website for binding and keeping record of our travel stories, travel guides etc". Currently the app is dedicated to only keeping track and records and seggestions etc.
+<img width="1678" alt="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%201.png">
+<br>
+<br>
+<img width="1678" alt="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%202.png">
 
-<img width="1678" alt="screenshot of website" src="https://media.giphy.com/media/BIql9p3KQWYdjq4Sxe/giphy.gif">
 
+## features
 
-## Setup
-
-```bash
-npm i
-npm start
+```
+- Yatrum uses @ngrx libraries, showcasing common patterns and best practices.
+- Yatrum is a travel diary app for travellers.
+- Travellers can create itinerary for their trips.
+- This application utilises @ngrx/store to manage the state of the app and to cache requests made to the Backend API, @angular/router to manage navigation between routes, @ngrx/effects to isolate side effects.
 ```
 
 ## What's included
 
-- [x] CRUD: create, update and remove heroes with this project!
-- [x] Authentication with JWT tokens and [js-cookie](https://github.com/js-cookie/js-cookie)
-- [x] Internationalization with the official i18n. English and Spanish available.
-- [x] Lazy loading modules
-- [x] Service Workers enabled!
-- [x] More logical directory structure
-- [x] Basic example library
-- [x] Following the [best practices](https://angular.io/guide/styleguide)!
-- [x] Search bar, to look for heroes
-- [x] Custom loading page
-- [x] Example of Angular Resolver for Hero Detail
-- [x] Lazy loading images with [ng-lazyload-image](https://github.com/tjoskar/ng-lazyload-image)
-- [x] Modal and toasts (snakbar)!
-- [x] Scroll restoration and anchor examples
-- [x] Responsive layout (flex layout module)
-- [x] SASS (most common used functions and mixins) and BEM styles
-- [x] Animations with [ng-animate](https://jiayihu.github.io/ng-animate/)
-- [x] Angular Pipes
-- [x] Interceptors and Events
-- [x] Auth guard for some routes
-- [x] Modernizr (browser features detection)
-- [x] Browser filter (Bowser) because of IE ^^
-- [x] [Sentry](https://sentry.io)! (logs every error in the app)
-- [x] Google Tag Manager
-- [x] ES6 Promises and Observables
-- [x] End-to-end tests with Cypress App Actions. Read
-      [this](https://applitools.com/blog/page-objects-app-actions-cypress/)!
+- [x] Architecture, setup, source files
+- [x] TypeScript basics
+- [x] Getting started with latest angular
+- [x] Template fundamentals
+- [x] Rendering flows
+- [x] Component Architecture and Modules
+- [x] Services, Http and Observables
+- [x] Template Forms, Inputs and Validation
+- [x] Reactive Forms and more magic
+- [x] Routing
+- [x] Authenticate using Firebase Auth Service
+- [x] Hosting the website using Firebase Hosting services
 
-### i18n
+## Additional features
 
-This project is using the official internationalization. You can navigate through every language If
-you want to translate the messages you can use this awesome tool,
-[Tiny Translator](https://martinroob.github.io/tiny-translator/en/#/translate).
+or Social login to work you need to create an app on faceook and google and note down the client id and secret id of individual app. Below are instructions for creating app on inidviudal social media site
+
+Google : Creating App Engine Project and Application
+Facebook : Creating a New Facebook App
+Once you have created the app,rename secret.ts.example file in app folder to secret.ts and replace the dummy string with client id of respective social app.
 
 ## Bugs and feature requests
 
@@ -64,7 +55,7 @@ closed issues. If your problem or idea is not addressed yet,
 
 ## Application Link & Future Scope :
 
-The app is currently in the Alpha testing phase for users, You can access the app : [YOUR WEBSITE LINK HERE].
+The app is currently in the Alpha testing phase for users, You can access the app : [[website link](https://yatrum.firebaseapp.com/)].
 
 Once the website is fully tested and functional we will add several different more sections for other fields incresing our reach and growing its community.
 
