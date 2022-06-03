@@ -12,7 +12,7 @@ This project proposes a “Website for binding and keeping record of our travel 
 <img width="1678" src="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%201.png">
 <br>
 <br>
-<img width="1678" alt="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%202.png">
+<img width="1678" src="https://github.com/ralphcoder/pessonal/blob/master/photoes/yatram%202.png">
 
 
 ## features
